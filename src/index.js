@@ -8,5 +8,6 @@ class Type {
       return "String";
     } else {
       return "Nope";
+    }
   }
 }
