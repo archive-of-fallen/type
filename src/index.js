@@ -3,11 +3,17 @@ class Type {
     this.input = input
   }
   
-  _type_string(input) {
-    if(typeof input === 'string') {
-      return "String";
-    } else {
-      return "Nope";
-    }
+  switch(input) {
+    case 'string':
+      console.log('String');
+      break;
+    case 'boolean':
+      console.log('Boolean');
+      break;
+    case 'number':
+      console.log('Integer');
+      break;
+    default:
+      console.log('Sorry, I don\'t recognize your input');
   }
 }
