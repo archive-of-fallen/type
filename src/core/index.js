@@ -5,17 +5,17 @@ class Type {
   
   type(input) {
     switch(input) {
-      case 'string':
+      case typeof(input === 'string'):
         console.log('String');
         break;
-      case 'boolean':
+      case typeof(input === 'boolean'):
         console.log('Boolean');
         break;
-      case 'number':
+      case typeof(input === 'number'):
         console.log('Integer');
         break;
       default:
-        console.log('Sorry, I don\'t recognize your input');
+        console.log('Sorry, I don\'t recognize the type of your input');
     }
   }
 }
