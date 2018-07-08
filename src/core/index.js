@@ -8,7 +8,6 @@ class Type {
     this.input = input
   }
   
-  
   /**
    * @param {string|boolean|number} input
    */
