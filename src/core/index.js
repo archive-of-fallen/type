@@ -8,6 +8,10 @@ class Type {
     this.input = input
   }
   
+  
+  /**
+   * @param {string|boolean|number} input
+   */
   type(input) {
     switch(input) {
       case typeof(input === 'string'):
