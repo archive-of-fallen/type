@@ -1,3 +1,8 @@
+/**
+ * ©️ WhomHasFallen 2018-2019
+ * All rights reserved
+ */
+
 class Type {
   constructor(input) {
     this.input = input
