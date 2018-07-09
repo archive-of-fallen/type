@@ -1,5 +1,5 @@
 # Type
-Single-file, lightweight type() function in JavaScript
+Single-file, lightweight type() function in JavaScript.
 
 ### Why?
 Why not?
@@ -20,6 +20,9 @@ type(4);
 type(true);
 // Expected: boolean
 ```
+
+## In progress
+Identification of objects.
 
 # License
 This project is licensed under the permissive MIT license.
