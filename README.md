@@ -22,7 +22,7 @@ type(true);
 ```
 
 ## In progress
-Identification of objects.
+- Identification of objects.
 
 # License
 This project is licensed under the permissive MIT license.
