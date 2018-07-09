@@ -23,7 +23,7 @@ class Type {
         console.log('Integer');
         break;
       default:
-        console.log('Sorry, I don\'t recognize the type of your input');
+        throw new Error('Unrecognized type passed!');
     }
   }
 }
