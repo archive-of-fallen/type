@@ -25,7 +25,7 @@ type(true);
 - Identification of objects.
 
 ## Discord
-<iframe src="https://discordapp.com/widget?id=388630634232545280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+[Fallen's Creation Hub](https://discord.gg/2AxaHpf)
 
 
 # License
