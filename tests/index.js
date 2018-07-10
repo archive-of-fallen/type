@@ -1,4 +1,5 @@
-const { type } = require('type');
+const Type = require('../src/core/index.js');
+const { type } = new Type();
 
 type('Hello');
 // Expected: string
